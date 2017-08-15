@@ -92,18 +92,18 @@ h1,h2,h3,h4,p,a{
 }
 .slider-product{
 	float:left;
-	width:535px;
+	width:58%;
 	padding:15px 0;
 }
 .slider-product img{
-	width:535px;
+	width:100%;
 }
 .slider-product-description{
 	float:left;
-	width:320px;
-	color:#fff;
+	width:38%;
+	color:#ccc;
 }
 .slider-poduct-description a{
-	color:#fff;
+	color:#ccc;
 	float:right;
 }
