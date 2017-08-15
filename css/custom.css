@@ -107,3 +107,110 @@ h1,h2,h3,h4,p,a{
 	color:#ccc;
 	float:right;
 }
+.brand-category{
+	display: inline-block;
+	width:100%;
+	margin:0 auto;
+	padding:20px 0;
+}
+.brand{
+	display:inline-block;
+	width:170px;
+	margin-right:68px;
+	margin-left: 53px;
+}
+.brand:last-child{
+	margin:0;
+}
+.brand-logo{
+	display:inline-block;
+	width:100px;
+}
+.brand-info{
+	display:inline-block;
+	text-align:center;
+	width:65px;
+}
+.brand-info h2, .brand-info a{
+	 font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic W01", Arial, sans-serif;
+}
+.brand-info h2{
+	color:#8c8c8c;
+}
+.brand-info a{
+	color:#CCC;
+	background-color:#25d258;
+	padding:5px;
+	border-radius:4px;
+}
+.brand img{
+	width:100%;
+}
+.featured-products h2{
+	background-color:#25d258;
+	padding:10px 17px;
+	color:#fff;
+	font-family:"Haettenschweiler";
+	font-size:24px;
+	letter-spacing:1px;
+	margin:0
+}
+.featured-products-group{
+	width:630px;
+	margin:0 auto 30px;
+	display:inline;
+}
+.featured-products-box{
+	width:189px;
+	display:inline-block;
+	border:1px solid #dcdcdc;
+	border-bottom:4px solid #25d258;
+	margin-right:68px;
+	margin-left:78px;
+	margin-top:25px;
+}
+.featured-products-box:nth-child(3),
+.featured-products-box:nth-child(6){
+	margin:0;
+}
+.product-box-preview{
+	width:180px;
+	margin:0 auto;
+	padding:5px;
+	text-align:center;
+}
+.product-box-preview img{
+	width:180px;
+}
+.product-box -info{
+	text-align:center;
+}
+.product-box-info h3{
+	font-size:25;
+	margin:0;
+}
+.product-box-info h3,
+.product-box-info p {
+	color: #8c8c8c;
+}
+.product-box-info h3,
+.product-box-info a,
+.product-box-info p {
+	font-family: "Franklin Gothic Medium", "Franklin Gothic", "ITC Franklin Gothic W01", Arial, sans-serif;
+}
+.product-box-info p,
+.product-box-info a {
+	display: inline-block;
+}
+.product-box-info a {
+	margin-left: 49px;
+	color: #fff;
+	background-color: #28d258;
+	padding: 5px 10px;
+	border-radius: 4px;
+}
+.product-box-preview img {
+	width: 180px;
+	height: 130px;
+	margin-top: auto;
+}
