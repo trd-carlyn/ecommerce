@@ -1,4 +1,6 @@
-/* ecoomerce default start */
+/*---------------------------------------------------------------------
+ ecoomerce default start 
+ ---------------------------------------------------------------------*/
 html{
 	font-family:sans-serif;
 }
@@ -259,5 +261,34 @@ h1,h2,h3,h4,p,a{
 	list-style-type: none;
 	padding: 0;
 }
+/*--------------------------------------------------------------
+# Products Page Start
+--------------------------------------------------------------*/
+.brand2-category {
+	background-color: #28d258;
+}
+.brand2-category ul {
+	list-style-type: none;
+	padding: 0;
+	width: 432px;
+	margin: 0 auto;
+	padding: 15px 0px;
+}
+.brand2-category ul li {
+	display: inline-block;
+	margin-right: 41px;
+}
+.brand2-category ul li:nth-child(5) {
+	margin:0;
+}
+.brand2-category ul li a {
+	Vertical-align: middle;
+}
+.brand2-category ul li a img {
+	width: 50px;
+}
+/*--------------------------------------------------------------
+# Products Page End
+--------------------------------------------------------------*/
 
 
