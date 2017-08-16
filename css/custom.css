@@ -328,4 +328,107 @@ h1,h2,h3,h4,p,a{
 # Products Page End
 --------------------------------------------------------------*/
 
+/*--------------------------------------------------------------
+# AboutUs Page Start
+--------------------------------------------------------------*/
+.olive-about {
+	background-color:#343b3e;
+	background-repeat: no-repeat;
+	background-size: 900px;
+	padding: 98px 0;
+}
+.olive-about-box {
+	width: 533px;
+	margin: 0 auto;
+}
+.olive-about-box p {
+	text-align: center;
+	font-size: 20px;
+	color: #fff;
+	text-shadow: 2px 2px 3px #000;
+}
+.olive-about-box p span {
+	color: #28d258;
+}
+.olive-stats {
+	border-top:8px solid #28d258;
+	border-bottom:8px solid #28d258;
+}
+.olive-stats-content {
+	width: 630px;
+	margin: 0 auto;
+}
+.olive-stats-box {
+	width: 180px;
+	display: inline-block;
+	text-align: center;
+	margin-right: 40px;
+}
+.olive-stats-box h2 {
+	font-weight: bold;
+	font-size: 22px;
+}
+.olive-stats-box img {
+	width: 110px;
+}
+.olive-stats-box:nth-child(3) {
+	margin: 0;
+}
+.olive-stats-box p:nth-child(3) {
+	font-size: 50px;
+	font-family: "Haettenschweiler";
+	margin: 0px;
+	color: #28d258;
+}
+.olive-stats-box p:nth-child(4) {
+	margin: 0;
+	font-weight: bold;
+	font-size: 20px;
+}
+.olive-stats-source {
+	margin: 0 auto;
+	padding: 20px 0;
+}
+.olive-stats-source p {
+	font-size: 13px;
+	margin: 0;
+	text-align: center;
+}
+
+.olive-comment {
+	background-color:rgba(37, 210, 163, 0.28);
+	background-repeat: no-repeat;
+	background-size: 900px;
+	padding-top: 20px;
+	padding-bottom: 164px;
+}
+.olive-comment p:first-child {
+	text-shadow: 2px 2px 0px #fff;
+}
+.olive-comment p:nth-child(2) {
+	text-shadow: 1px 1px 0px #000;
+}
+.olive-comment p:first-child {
+	font-family: "Haettenschweiler";
+	font-size: 40px;
+	width: 700px;
+	margin: 0 auto;
+}
+.olive-comment p:first-child span,
+.olive-comment p:nth-child(2) {
+	color: #28d258;
+}
+.olive-comment p:nth-child(2) {
+	font-style: italic;
+	font-size: 19px;
+	margin: 0;
+}
+.olive-comment p {
+	text-align: center;
+}
+
+/*--------------------------------------------------------------
+# AboutUs Page End
+--------------------------------------------------------------*/
+
 
